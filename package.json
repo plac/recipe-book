@@ -1,0 +1,11 @@
+{
+  "name": "recipes",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "dev": "meteor --settings settings.json"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
